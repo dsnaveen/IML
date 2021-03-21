@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sun, 21 Mar 2021 11:48:13 at https://christophm.github.io/interpretable-ml-book/
+(httrack https://christophm.github.io/interpretable-ml-book/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 11 seconds : 191 links scanned, 190 files written (24569591 bytes overall) [21983105 bytes received at 115094 bytes/sec], 3564673 bytes transferred using HTTP compression in 76 files, ratio 23%, 31.8 requests per connection
+(No errors, 0 warnings, 0 messages)
